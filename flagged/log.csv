@@ -1,0 +1,18 @@
+Chat with AI,Reply,flag,username,timestamp
+with C++,"Certainly! Here's a simple C++ function that adds two numbers and returns the sum:
+
+```c++
+int add_numbers(int num1, int num2) {
+    int sum = num1 + num2;
+    return sum;
+}
+```
+
+You can call this function with two integers as arguments like this:
+
+```c++
+int result = add_numbers(5, 10);
+cout << result << endl; // Output: 15
+```
+
+This function takes two parameters `num1` and `num2` representing the two integers to be added together. The function performs the addition operation and stores the result in the variable `sum`. Finally, the function returns the result using the `return` statement.",,,2023-03-19 07:57:21.851398
